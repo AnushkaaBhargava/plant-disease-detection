@@ -1,0 +1,13 @@
+import tensorflow as tf
+
+# Load your trained model
+model = tf.keras.models.load_model("/content/drive/MyDrive/plant-disease-detection/models/1.keras")
+
+# Convert to TFLite
+converter = tf.lite.TFLiteConverter.from_keras_model(model)
+tflite_model = converter.convert()
+
+# Save the .tflite model
+with open("/content/drive/MyDrive/plant-disease-detection/models/plant_disease_model.tflite", "wb") as f:
+    f.write(tflite_model)
+
