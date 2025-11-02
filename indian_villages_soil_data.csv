@@ -1,0 +1,1001 @@
+Village_Name,State,Latitude,Longitude,Nitrogen_kg_ha,Phosphorus_kg_ha,Potassium_kg_ha,pH
+Sitapur0,Bihar,23.4687,95.6225,17,13,87,4.72
+Rampurkheda1,Punjab,9.2531,85.2068,78,16,133,8.5
+Kaliwadi2,Bihar,32.6921,95.5315,30,46,51,5.88
+Omtola3,Maharashtra,17.8117,85.3088,30,45,135,7.04
+Devkheda4,Maharashtra,22.6664,73.579,93,36,86,6.32
+Mohangarh5,Rajasthan,24.205,74.9034,30,34,23,6.71
+Shivpur6,Maharashtra,26.1984,84.5199,72,29,52,6.35
+Manojkhurd7,Rajasthan,29.9921,70.2453,52,11,84,8.47
+Shaktipura8,Uttar Pradesh,8.177,83.1481,71,27,24,5.98
+Kishangaon9,Madhya Pradesh,15.6025,88.4223,30,44,97,8.19
+Bansikheda10,Madhya Pradesh,23.9665,68.2001,84,26,52,8.74
+Rampurkhurd11,Madhya Pradesh,20.9305,95.1713,39,29,41,4.62
+Manojpur12,Bihar,12.368,71.2914,83,30,29,5.79
+Gopalkheda13,West Bengal,24.5612,73.0904,49,24,95,6.79
+Shaktipura14,Bihar,19.7856,82.7907,16,40,58,6.34
+Vishnuwadi15,Maharashtra,11.0236,80.8138,57,26,103,7.05
+Shivbari16,Uttar Pradesh,36.0031,86.718,23,20,58,5.53
+Vishnugarh17,Karnataka,11.3413,94.2861,51,14,40,7.4
+Kishannagar18,Karnataka,9.2388,70.8416,50,29,125,5.03
+Harigarh19,Rajasthan,8.9913,89.3728,21,20,136,7.98
+Devdih20,Tamil Nadu,35.7135,82.9122,85,23,88,5.12
+Kalichak21,Madhya Pradesh,36.341,75.4312,26,45,105,8.11
+Ganeshgaon22,West Bengal,14.915,76.2055,51,48,104,4.67
+Shivbari23,Karnataka,31.6009,90.1541,62,35,85,8.09
+Mohandih24,Karnataka,14.8889,91.9672,52,27,20,7.57
+Haribari25,Maharashtra,33.7978,88.3961,58,32,57,8.4
+Manojkhurd26,Punjab,20.6821,72.3488,77,28,97,5.71
+Rajgaon27,Uttar Pradesh,17.519,92.3814,23,39,66,5.7
+Vishnukheda28,Karnataka,12.9289,74.6724,52,9,55,7.22
+Rampurchak29,Bihar,14.5274,89.7956,61,37,31,5.04
+Omkhurd30,Karnataka,30.5949,80.536,80,18,79,4.8
+Vishnuchak31,Rajasthan,31.5238,90.5747,44,25,101,5.33
+Manojchak32,Tamil Nadu,11.0991,81.554,54,43,97,8.44
+Gangachak33,Karnataka,15.8993,74.0706,94,42,101,5.21
+Kedartola34,Bihar,16.6649,71.003,30,8,37,7.63
+Gangawadi35,Maharashtra,10.0459,87.5861,63,48,106,7.83
+Lakhanpura36,Rajasthan,17.9166,95.7131,30,8,53,7.94
+Durgawadi37,Punjab,13.1736,80.5811,94,32,30,4.63
+Gopalpur38,Madhya Pradesh,15.3507,74.8086,48,34,109,6.79
+Bansikheda39,Tamil Nadu,9.5056,78.0468,24,12,52,6.46
+Anandwadi40,Maharashtra,25.6888,89.009,19,37,117,7.95
+Ganganagar41,Punjab,33.6601,88.6369,43,24,50,4.86
+Durgakheda42,Rajasthan,14.4329,79.6191,38,20,83,5.85
+Rampurchak43,Punjab,34.3335,71.6076,37,46,89,8.27
+Rajpura44,West Bengal,18.9506,80.3615,97,48,122,8.88
+Basantwadi45,Karnataka,8.8476,95.7408,79,8,125,7.21
+Sitapura46,Rajasthan,32.0108,81.8091,22,15,108,7.11
+Suryawadi47,Uttar Pradesh,10.5173,93.5175,99,15,79,7.36
+Basantdih48,Rajasthan,11.8043,95.1962,77,9,38,7.85
+Basantkheda49,Maharashtra,10.9582,87.979,12,45,47,7.98
+Kaligarh50,Maharashtra,26.3153,91.0394,57,19,72,5.87
+Kaligaon51,Karnataka,27.5714,77.4854,80,39,133,6.53
+Bhawanbari52,West Bengal,14.5559,88.536,97,42,41,5.14
+Shaktichak53,Uttar Pradesh,12.1378,82.5581,85,23,140,8.98
+Laxmigaon54,Haryana,34.4959,91.3225,78,8,127,8.17
+Mohantola55,Rajasthan,11.9697,81.4182,56,10,137,7.55
+Bhawangaon56,West Bengal,30.6671,79.3219,76,47,122,8.35
+Durganagar57,Maharashtra,11.6053,73.6167,49,25,86,7.86
+Manojkheda58,Madhya Pradesh,24.1174,89.7774,12,18,48,5.87
+Anandgarh59,Bihar,33.2726,78.3047,58,40,32,5.87
+Ompura60,Bihar,19.4622,95.7768,46,16,116,5.46
+Anandwadi61,Bihar,13.8176,77.3511,60,13,30,5.83
+Nandgarh62,West Bengal,34.0347,80.0275,75,19,98,5.43
+Kedardih63,Haryana,20.5746,91.149,36,9,49,7.5
+Rampurkhurd64,Karnataka,30.7303,79.0766,16,20,125,8.76
+Pawantola65,Karnataka,26.2163,94.2903,59,28,113,6.21
+Ganeshkheda66,Punjab,15.1619,94.7055,82,15,78,8.75
+Suryagaon67,Karnataka,20.1307,81.113,72,34,22,7.29
+Omkhurd68,Maharashtra,25.7401,87.3025,40,26,147,8.38
+Krishnadih69,West Bengal,30.3237,92.6474,31,25,103,6.18
+Omkheda70,Rajasthan,28.9597,85.0374,11,33,87,6.07
+Kishanpur71,Bihar,33.4033,71.1436,71,30,29,6.43
+Omdih72,Uttar Pradesh,28.6585,69.3543,79,17,79,8.11
+Manojwadi73,Madhya Pradesh,10.0581,88.4023,75,9,122,8.89
+Bansibari74,Karnataka,31.1686,93.1096,70,40,126,5.04
+Haritola75,Bihar,15.1559,71.1399,48,36,92,8.49
+Basantkheda76,Uttar Pradesh,27.9085,78.5832,31,10,111,4.6
+Nandbari77,Karnataka,30.2206,93.9483,88,44,32,8.67
+Rajtola78,Maharashtra,19.759,89.1812,52,38,47,6.95
+Krishnabari79,Karnataka,13.1646,90.6825,55,13,52,6.93
+Devgarh80,Punjab,29.3243,71.2143,77,16,35,8.42
+Kedarchak81,Rajasthan,25.4992,70.8691,55,8,95,8.46
+Devwadi82,Rajasthan,23.683,93.9295,38,24,24,6.59
+Sitakheda83,Tamil Nadu,36.479,70.8464,30,49,90,5.96
+Durgatola84,Karnataka,31.9295,85.861,68,36,69,8.28
+Kedarkheda85,Uttar Pradesh,33.4832,87.5609,37,35,141,8.82
+Bhawankheda86,Karnataka,22.1583,82.7477,15,43,68,6.14
+Kedartola87,Bihar,10.3541,85.1445,11,44,80,5.92
+Ganeshgaon88,West Bengal,24.265,78.9096,15,30,80,7.65
+Mohantola89,Uttar Pradesh,13.9379,86.4013,42,40,34,7.97
+Chanddih90,Madhya Pradesh,36.4108,69.0456,66,6,99,5.84
+Gangapur91,Bihar,20.9637,80.9281,93,47,32,6.53
+Anandgarh92,West Bengal,28.6629,87.0245,60,48,60,5.74
+Suryadih93,West Bengal,15.077,87.7479,62,39,40,8.75
+Kedargaon94,Tamil Nadu,15.3642,95.5936,67,29,116,4.53
+Suryagaon95,Tamil Nadu,14.117,68.4152,19,29,137,8.45
+Omwadi96,West Bengal,34.7064,81.5934,43,40,30,5.43
+Basantdih97,Punjab,21.086,86.6356,52,12,72,8.65
+Kishantola98,Maharashtra,24.3347,94.0294,65,20,96,8.98
+Rajpura99,Rajasthan,22.0204,71.8851,37,27,82,4.72
+Ganeshkhurd100,Rajasthan,11.0738,85.0677,30,6,119,4.96
+Chandkhurd101,Punjab,23.3285,88.3012,32,49,122,7.35
+Pawanbari102,Punjab,24.3788,78.7518,57,5,60,5.32
+Ombari103,Punjab,31.6708,73.2876,78,32,138,6.76
+Pawanbari104,Uttar Pradesh,31.7456,91.4701,87,30,63,6.51
+Kishangaon105,Tamil Nadu,9.3755,68.5214,48,43,99,6.39
+Gopalkheda106,Rajasthan,12.6107,91.8281,32,13,94,8.05
+Yamunachak107,Uttar Pradesh,36.278,85.0473,78,40,34,7.44
+Kishanchak108,West Bengal,8.873,71.9607,82,48,86,5.43
+Harinagar109,Tamil Nadu,27.6182,68.901,83,22,137,7.61
+Durganagar110,West Bengal,17.1739,68.0119,64,40,40,6.81
+Bansikheda111,Madhya Pradesh,10.1117,89.1569,17,33,52,5.64
+Kedarkhurd112,Rajasthan,29.6145,82.6463,98,45,42,7.3
+Manojkhurd113,Punjab,32.6713,90.5053,92,35,37,5.87
+Shivpur114,Uttar Pradesh,36.3585,76.0336,56,9,26,8.2
+Devtola115,Haryana,22.7989,83.7543,93,30,136,8.14
+Shaktiwadi116,Karnataka,11.0907,86.1335,37,13,62,7.33
+Bansinagar117,Punjab,36.3509,76.518,36,15,86,7.89
+Nandbari118,Punjab,15.5337,96.4936,79,49,128,5.2
+Bansikhurd119,Tamil Nadu,16.806,88.7285,68,8,99,4.51
+Bansidih120,Bihar,20.1111,72.6616,19,21,40,6.52
+Suryanagar121,Uttar Pradesh,36.7493,76.8281,70,39,31,4.51
+Shaktinagar122,Bihar,26.9076,70.8048,45,26,29,5.88
+Shivkheda123,Karnataka,13.1202,72.9406,12,41,77,4.59
+Gangakhurd124,Bihar,15.1454,87.8461,36,34,84,5.37
+Vishnutola125,Madhya Pradesh,32.3132,77.1361,51,21,42,7.84
+Pawankhurd126,Tamil Nadu,34.3158,73.836,15,28,34,6.58
+Lakhanpura127,Karnataka,24.7618,76.9509,11,29,41,6.37
+Gangadih128,Maharashtra,27.9952,85.3349,41,39,22,6.31
+Shivnagar129,Karnataka,35.8067,93.3513,53,37,51,5.34
+Rajchak130,Uttar Pradesh,23.1135,76.878,37,18,138,6.08
+Ganeshpura131,Rajasthan,13.1294,95.3186,91,16,57,5.0
+Anandwadi132,Karnataka,20.8539,81.1437,59,19,63,8.01
+Rampurgaon133,Madhya Pradesh,22.6105,85.259,14,50,105,6.78
+Basantkheda134,Tamil Nadu,26.8868,76.0143,43,31,136,6.52
+Krishnatola135,Maharashtra,14.1015,83.4819,97,34,71,5.02
+Omtola136,Madhya Pradesh,10.6405,74.0476,89,7,29,5.95
+Suryabari137,Tamil Nadu,34.9662,76.189,66,34,104,7.45
+Laxmidih138,West Bengal,10.2348,93.9237,88,40,22,8.2
+Haribari139,Rajasthan,24.2421,76.0908,68,32,101,6.37
+Shaktichak140,Bihar,19.4518,79.4231,78,37,72,6.75
+Durgapur141,West Bengal,10.7947,73.0374,11,29,73,6.15
+Kishanpura142,Madhya Pradesh,11.8055,84.3612,28,29,96,5.15
+Anandkhurd143,Rajasthan,23.1186,82.0275,38,18,42,6.37
+Lakhanwadi144,Karnataka,13.6881,94.8133,25,27,61,4.77
+Basantgarh145,Karnataka,35.0927,87.6832,49,17,73,6.15
+Kalinagar146,Madhya Pradesh,25.2175,89.4638,21,50,55,6.91
+Shivgarh147,West Bengal,13.6698,73.4692,76,11,150,5.4
+Kishanpur148,Madhya Pradesh,17.0959,88.5882,79,10,59,6.78
+Nandpur149,West Bengal,23.3261,87.2066,68,48,62,5.05
+Bhawanpur150,Maharashtra,26.2865,86.9634,24,5,104,7.6
+Krishnabari151,Madhya Pradesh,16.9122,85.4656,30,15,100,8.3
+Laxmigaon152,Tamil Nadu,17.1867,92.7871,44,18,103,6.08
+Basantkheda153,Tamil Nadu,33.5825,81.831,47,19,73,4.55
+Ganeshpura154,Uttar Pradesh,26.4876,96.7871,82,16,29,8.0
+Bhawanwadi155,Punjab,32.4194,80.4658,75,27,132,6.57
+Manojtola156,Uttar Pradesh,36.7828,93.2874,94,11,117,5.08
+Sitawadi157,Bihar,17.9313,92.2768,94,15,24,5.53
+Rampurpura158,Uttar Pradesh,22.5454,79.357,83,6,118,8.52
+Lakhangarh159,Bihar,36.3674,94.6758,62,49,138,7.23
+Bhawankheda160,Punjab,26.1254,72.24,22,29,144,6.25
+Devtola161,Karnataka,18.3733,74.4093,35,40,97,7.21
+Lakhangarh162,Uttar Pradesh,17.6403,80.892,91,44,104,8.43
+Mohanchak163,West Bengal,23.5313,75.2166,54,23,108,5.55
+Rajkhurd164,Bihar,31.5444,75.939,69,23,54,7.87
+Gopalnagar165,West Bengal,15.2231,72.2828,47,15,98,5.63
+Gopalbari166,Maharashtra,27.1909,93.8175,37,37,92,8.57
+Shivbari167,Punjab,18.3053,93.4138,51,27,82,7.99
+Vishnunagar168,Tamil Nadu,9.725,84.1468,15,20,37,8.43
+Rampurkheda169,West Bengal,23.3701,89.1378,23,21,110,6.98
+Lakhankheda170,Bihar,8.7632,72.3784,99,8,147,4.98
+Bhawandih171,West Bengal,29.1785,92.0321,89,31,60,8.49
+Gangakhurd172,Rajasthan,21.0341,93.8022,39,45,149,5.16
+Ganeshtola173,Tamil Nadu,19.766,76.6816,36,37,91,4.86
+Anandnagar174,Madhya Pradesh,27.1879,79.1329,33,44,98,8.78
+Rampurdih175,Tamil Nadu,26.8795,84.0037,32,44,81,5.11
+Rampurkhurd176,Uttar Pradesh,29.2181,70.765,34,32,85,5.38
+Kedartola177,Rajasthan,10.9127,68.588,77,13,59,8.91
+Kishantola178,Rajasthan,35.1059,80.2851,63,19,75,6.41
+Bhawantola179,Rajasthan,30.2638,92.8426,75,17,123,8.45
+Pawanchak180,Karnataka,22.626,95.2489,96,48,136,6.56
+Gangagaon181,West Bengal,26.0501,85.9356,77,48,124,5.58
+Vishnupura182,Uttar Pradesh,35.5494,89.7021,81,27,78,6.08
+Omnagar183,Uttar Pradesh,10.9914,85.4722,12,11,87,5.81
+Nandtola184,Haryana,11.9665,76.5139,18,50,84,8.41
+Bhawantola185,Punjab,26.2887,75.1414,92,5,36,7.19
+Pawanchak186,Karnataka,25.3914,82.6658,18,17,115,8.18
+Suryapura187,West Bengal,29.1986,89.0783,52,22,103,6.04
+Rampurbari188,West Bengal,34.2284,73.7868,24,20,99,6.54
+Krishnakheda189,Maharashtra,14.5272,78.6632,63,43,39,7.66
+Manojkhurd190,Rajasthan,34.7566,91.8053,74,42,142,6.8
+Gopalwadi191,Tamil Nadu,34.181,75.3424,100,47,43,8.73
+Kalikheda192,Uttar Pradesh,36.6604,84.3202,48,7,104,8.42
+Laxmipur193,Bihar,10.8425,70.0345,74,43,111,4.97
+Shaktikheda194,West Bengal,18.0652,70.0009,18,26,110,6.24
+Shaktinagar195,Tamil Nadu,32.9724,74.4407,45,10,65,8.56
+Shaktichak196,Punjab,24.7582,86.5136,46,13,30,7.67
+Anandwadi197,Punjab,36.9873,70.72,61,16,60,5.09
+Gangakheda198,Tamil Nadu,31.3452,91.5987,19,33,62,5.94
+Lakhannagar199,Uttar Pradesh,11.0906,69.5928,11,49,127,5.74
+Basantkheda200,Karnataka,13.679,88.7998,15,24,92,4.88
+Nandbari201,Uttar Pradesh,28.0808,79.3559,97,16,111,4.68
+Kishannagar202,Tamil Nadu,8.2778,94.3787,80,29,142,7.17
+Omgarh203,West Bengal,28.6823,85.6308,55,5,40,7.44
+Chandbari204,Uttar Pradesh,16.0378,86.704,19,23,31,8.26
+Kedarbari205,Uttar Pradesh,26.722,78.1148,85,47,122,5.05
+Manojwadi206,Maharashtra,27.7697,72.4823,96,46,71,5.42
+Vishnubari207,Haryana,30.1789,94.8886,77,10,104,7.87
+Rampurdih208,Madhya Pradesh,32.6965,75.9655,95,10,106,4.64
+Sitakhurd209,Uttar Pradesh,8.1871,69.3313,22,41,142,4.87
+Gopalpur210,Haryana,29.0494,74.3346,52,28,101,8.19
+Bhawannagar211,Bihar,28.6594,82.3083,64,10,92,6.3
+Rajkhurd212,Bihar,24.2417,91.393,51,41,122,5.22
+Kalipur213,Tamil Nadu,28.6518,95.7491,28,14,131,6.58
+Laxminagar214,Haryana,30.7186,75.2631,44,21,127,6.07
+Bansinagar215,Uttar Pradesh,21.8033,89.8847,68,24,40,6.45
+Laxmitola216,Haryana,26.1933,90.8583,10,25,65,4.87
+Gangakheda217,Bihar,32.1018,90.3135,65,25,38,5.52
+Lakhandih218,Madhya Pradesh,11.2746,89.0686,47,34,26,8.45
+Lakhanpura219,Rajasthan,27.2275,72.4069,75,44,48,7.95
+Laxmitola220,Rajasthan,18.4297,84.3641,17,47,37,6.66
+Shivbari221,Maharashtra,23.59,78.7588,48,35,83,8.13
+Hariwadi222,Maharashtra,17.8545,75.4253,64,13,43,6.1
+Kishanchak223,Madhya Pradesh,22.5692,93.9372,82,45,106,7.93
+Pawannagar224,Punjab,17.3712,81.0855,97,28,149,6.82
+Durgakhurd225,Uttar Pradesh,26.8558,89.2892,57,49,34,4.92
+Ganeshtola226,Rajasthan,29.8217,91.9547,78,13,51,7.67
+Vishnubari227,West Bengal,11.0646,75.7949,47,8,111,5.8
+Lakhankhurd228,Uttar Pradesh,16.3439,89.1052,13,8,34,5.29
+Durgagaon229,Bihar,16.2933,82.3026,85,5,56,6.31
+Gangatola230,Karnataka,32.2085,77.4246,77,5,22,5.23
+Sitapura231,Tamil Nadu,34.6812,91.4742,15,11,76,4.62
+Gopalpur232,West Bengal,29.1597,77.8277,39,13,37,6.76
+Shaktidih233,Karnataka,19.3066,81.2332,81,34,57,7.62
+Ganeshwadi234,Maharashtra,20.9815,73.9974,67,21,23,5.84
+Anandnagar235,Karnataka,25.7275,81.457,28,5,64,5.08
+Durgachak236,Karnataka,23.7405,88.2575,67,26,88,8.34
+Shivgarh237,Uttar Pradesh,28.6508,80.3106,12,44,53,6.96
+Suryachak238,Haryana,22.6172,70.1375,42,40,115,6.2
+Kalikheda239,Punjab,30.9183,75.8758,53,16,140,6.26
+Basantkheda240,Madhya Pradesh,23.5383,79.4866,86,28,60,7.52
+Kalipur241,Tamil Nadu,24.2685,70.1752,39,17,100,6.69
+Omchak242,Bihar,25.076,94.1059,97,40,24,7.9
+Gangawadi243,Uttar Pradesh,14.8723,90.1431,29,34,71,6.82
+Kedargarh244,Karnataka,26.632,92.7593,53,37,91,7.37
+Bhawangaon245,Punjab,11.1479,93.3083,60,12,48,7.39
+Devtola246,Rajasthan,29.407,68.1343,89,47,129,7.9
+Nandbari247,Punjab,33.3527,69.4828,23,23,23,6.78
+Harikheda248,Haryana,13.7882,74.0077,96,50,135,8.69
+Anandnagar249,Madhya Pradesh,26.2569,88.4784,48,35,59,5.23
+Nandkhurd250,Punjab,28.9764,80.1674,31,34,69,7.84
+Rampurwadi251,Karnataka,35.1225,68.5468,39,18,36,6.53
+Durgadih252,Madhya Pradesh,36.8101,94.1162,100,15,48,8.41
+Anandchak253,Madhya Pradesh,12.0334,73.8816,92,21,138,5.82
+Durgabari254,Madhya Pradesh,30.735,80.7064,16,23,94,7.1
+Kedarkheda255,Madhya Pradesh,31.7613,96.5597,31,6,141,8.64
+Chanddih256,Bihar,26.512,90.0392,67,24,106,6.96
+Mohankheda257,Karnataka,21.3908,72.7889,100,40,92,7.74
+Bansipur258,Tamil Nadu,26.3806,73.3198,52,5,149,7.95
+Krishnabari259,Maharashtra,25.2608,91.5336,86,27,23,7.49
+Pawanchak260,Tamil Nadu,23.3945,84.3124,67,13,133,7.92
+Ganeshpur261,Madhya Pradesh,23.6448,68.2965,38,33,104,8.75
+Bansigaon262,Punjab,31.9689,73.6163,64,23,37,4.68
+Manojgaon263,Haryana,24.123,68.4225,38,12,132,6.91
+Suryatola264,Rajasthan,29.9859,94.4974,44,8,76,4.64
+Shaktipur265,Tamil Nadu,36.7064,80.903,14,23,65,7.67
+Nandbari266,Uttar Pradesh,11.7512,75.833,64,50,63,7.6
+Rampurgaon267,Tamil Nadu,13.9504,78.9262,83,28,82,5.58
+Bansinagar268,Punjab,12.0725,84.615,70,29,77,8.28
+Pawanchak269,Madhya Pradesh,10.7649,78.0636,71,8,124,5.24
+Rajnagar270,Bihar,33.6055,81.3433,17,44,97,7.48
+Bhawankhurd271,Uttar Pradesh,14.33,74.1174,81,26,66,7.37
+Pawanpur272,Maharashtra,27.9117,81.9825,17,20,37,5.94
+Manojpura273,Tamil Nadu,17.8399,82.8074,42,38,37,4.81
+Kalipura274,Tamil Nadu,19.4186,75.924,54,42,55,8.93
+Chandkhurd275,Punjab,30.5329,92.1347,76,49,145,5.23
+Basantkheda276,Punjab,21.9612,72.8497,11,12,52,5.09
+Vishnupur277,Bihar,21.4662,73.9604,100,45,123,6.41
+Krishnachak278,Maharashtra,28.9797,96.3648,89,29,92,8.4
+Basantgarh279,Karnataka,31.1699,85.2608,92,17,144,5.13
+Mohangarh280,West Bengal,22.8773,85.946,32,42,135,8.51
+Yamunachak281,Madhya Pradesh,35.9918,76.7463,98,43,106,5.13
+Mohanpura282,Uttar Pradesh,34.8722,86.6511,77,8,117,7.83
+Rampurchak283,Haryana,18.3849,81.865,39,40,101,7.33
+Laxmipur284,Bihar,35.6759,85.5987,55,8,110,8.07
+Lakhanpur285,Uttar Pradesh,29.2866,91.4329,70,47,138,7.86
+Devgarh286,Bihar,12.333,74.7342,61,24,59,6.92
+Pawandih287,Rajasthan,25.5764,94.5664,73,12,69,6.45
+Basantgarh288,West Bengal,25.3307,74.7934,30,19,29,6.79
+Suryakhurd289,Bihar,17.8488,95.5487,82,30,137,6.56
+Shaktichak290,West Bengal,11.3184,93.6296,28,34,124,7.71
+Lakhanpura291,Madhya Pradesh,29.6415,94.149,13,20,28,5.96
+Bansikheda292,Maharashtra,34.2937,71.0982,35,25,107,7.19
+Vishnutola293,Bihar,11.1117,80.9501,49,49,99,5.7
+Chandpur294,West Bengal,16.6523,78.8492,29,35,42,7.45
+Sitatola295,Rajasthan,34.3663,83.415,27,37,26,6.91
+Gangakhurd296,Maharashtra,35.9511,68.7927,16,31,54,6.93
+Ganganagar297,West Bengal,26.2502,88.9848,81,32,77,8.86
+Durgakheda298,Punjab,25.7269,79.2575,46,29,26,7.49
+Vishnupura299,West Bengal,8.5849,74.6914,90,8,42,7.36
+Gopalpura300,Karnataka,11.1433,84.0731,54,26,137,8.2
+Rampurpura301,Uttar Pradesh,28.7065,76.2808,99,24,40,7.2
+Basantnagar302,Bihar,19.885,75.5685,76,18,95,7.57
+Vishnukhurd303,Haryana,16.4811,96.5544,80,19,63,6.57
+Yamunagaon304,Madhya Pradesh,9.6314,91.2587,94,18,67,5.39
+Chandkheda305,West Bengal,18.2231,82.2794,29,37,78,6.75
+Shivnagar306,Maharashtra,15.7613,85.8724,83,9,103,7.15
+Kedartola307,Tamil Nadu,30.9191,70.2281,54,9,92,6.32
+Kedarwadi308,Bihar,13.0774,95.9959,68,18,29,6.94
+Kedarwadi309,West Bengal,20.4319,74.4185,53,27,38,8.05
+Kishanpura310,Uttar Pradesh,35.4132,85.0131,45,39,111,6.23
+Anandgaon311,West Bengal,33.7387,75.9785,23,6,101,8.83
+Suryabari312,Rajasthan,30.7744,81.7283,74,38,36,4.72
+Rajchak313,Maharashtra,29.4132,82.9564,35,10,55,5.23
+Lakhannagar314,Madhya Pradesh,29.1544,85.5883,48,28,29,8.52
+Bansibari315,Maharashtra,19.6279,71.6816,60,20,38,7.52
+Kishangarh316,Haryana,30.3644,78.5593,89,44,46,5.18
+Anandwadi317,Uttar Pradesh,22.3082,94.0377,70,21,79,8.4
+Ganganagar318,Madhya Pradesh,22.5005,96.1022,96,16,120,5.13
+Nandgaon319,Karnataka,23.9048,82.583,23,45,132,7.87
+Kedarwadi320,Madhya Pradesh,11.5896,78.618,15,35,79,8.32
+Rajnagar321,West Bengal,35.1689,85.2294,14,45,34,5.37
+Shaktikhurd322,Maharashtra,9.619,82.753,81,21,94,4.55
+Suryakhurd323,Maharashtra,29.0198,75.3115,94,29,110,5.87
+Suryapura324,Haryana,34.2288,74.4871,78,30,132,7.5
+Ganeshdih325,Madhya Pradesh,11.1743,70.8632,13,5,30,5.76
+Nandgaon326,Tamil Nadu,32.3903,83.9244,42,22,52,7.16
+Durgakhurd327,Maharashtra,24.0564,77.0376,11,7,115,7.02
+Omkheda328,Tamil Nadu,22.4402,88.2234,63,25,134,5.72
+Basantnagar329,West Bengal,28.2995,89.4907,29,49,65,5.93
+Chandbari330,Tamil Nadu,30.3887,78.7093,92,46,105,4.99
+Anandbari331,Karnataka,8.0533,94.1942,34,37,92,8.87
+Ganeshnagar332,Uttar Pradesh,28.8063,69.805,93,5,122,7.04
+Manojchak333,Rajasthan,32.0192,75.7383,54,30,108,7.1
+Suryapura334,Punjab,19.7387,69.53,19,9,22,5.33
+Haridih335,Tamil Nadu,18.0655,75.9466,62,5,129,5.55
+Manojchak336,Uttar Pradesh,32.5747,76.5301,29,17,28,5.25
+Krishnagarh337,Maharashtra,34.4947,96.2371,82,18,87,7.19
+Pawanbari338,Maharashtra,8.7646,78.3169,32,28,88,5.58
+Chandgarh339,Haryana,10.6297,84.6695,47,46,75,6.4
+Shaktinagar340,West Bengal,10.6406,96.9914,20,36,119,7.9
+Haripura341,West Bengal,32.7479,91.0427,77,49,133,8.35
+Gangagarh342,Punjab,10.0784,71.9981,36,15,60,4.92
+Devwadi343,Maharashtra,34.9945,93.0598,90,45,130,4.62
+Harigarh344,Haryana,22.89,80.7285,17,34,119,7.34
+Bansidih345,Madhya Pradesh,20.0417,91.7437,66,49,97,8.85
+Mohankheda346,Tamil Nadu,33.7997,80.233,54,20,21,5.63
+Suryakheda347,Rajasthan,9.819,95.3118,53,34,84,5.06
+Shivpur348,Uttar Pradesh,8.5826,71.9993,22,38,58,5.99
+Sitabari349,Tamil Nadu,15.1503,80.3371,51,14,108,4.63
+Vishnunagar350,Karnataka,13.3981,72.4623,13,48,87,7.15
+Anandnagar351,Haryana,11.8159,88.9194,89,46,51,5.49
+Manojbari352,Bihar,33.7659,88.3101,37,12,83,6.1
+Kedarpura353,Tamil Nadu,35.3576,87.9825,85,48,66,8.13
+Suryachak354,West Bengal,23.7003,94.6835,32,32,100,6.99
+Sitakhurd355,Bihar,8.0118,91.7182,78,44,47,6.34
+Shivtola356,Punjab,33.8503,69.5848,87,45,47,8.91
+Haridih357,Punjab,33.9836,69.0251,20,21,146,8.61
+Ganeshpura358,Haryana,14.6048,80.8108,64,8,127,6.92
+Vishnutola359,Madhya Pradesh,20.1352,76.7911,39,50,60,5.52
+Pawanwadi360,Madhya Pradesh,21.7269,83.8553,37,48,92,6.89
+Anandchak361,Bihar,15.7746,69.3052,76,42,126,6.38
+Gopaldih362,Tamil Nadu,22.171,81.7934,67,20,141,4.98
+Manojgarh363,Uttar Pradesh,22.3764,72.5591,80,15,78,8.82
+Basantwadi364,Punjab,13.5642,86.1646,59,38,112,5.31
+Devgaon365,Haryana,31.0948,91.9785,26,34,41,6.77
+Shivchak366,Tamil Nadu,16.7086,74.0944,99,32,88,7.08
+Krishnagarh367,Punjab,31.0251,94.0938,23,22,116,7.34
+Chandkheda368,Tamil Nadu,29.443,68.4454,100,39,21,8.82
+Anandgaon369,Punjab,21.3257,86.2912,59,5,125,5.69
+Haritola370,Tamil Nadu,30.9119,83.9658,40,6,118,8.24
+Laxmigarh371,Madhya Pradesh,14.6072,70.7096,93,49,137,5.68
+Bansigaon372,Maharashtra,18.8824,87.6072,99,6,141,7.08
+Vishnupura373,Bihar,23.0536,74.7326,56,6,36,7.23
+Kishanpur374,Maharashtra,33.5331,86.4699,73,41,96,7.47
+Bansidih375,West Bengal,15.0943,83.3948,73,47,84,7.37
+Basantbari376,Punjab,19.7667,77.3251,59,30,30,8.86
+Gangagarh377,Maharashtra,26.3952,70.2644,57,49,47,6.45
+Basantwadi378,Uttar Pradesh,34.8979,94.9973,53,35,29,5.35
+Mohanchak379,Uttar Pradesh,32.4413,82.6482,26,10,60,7.78
+Kishandih380,Madhya Pradesh,18.3901,89.8464,15,22,126,8.98
+Ganeshtola381,Bihar,23.0742,72.2857,39,10,59,4.9
+Haripur382,Uttar Pradesh,22.0371,68.4017,40,34,132,8.22
+Bhawanpur383,Uttar Pradesh,33.0358,87.2431,52,20,84,8.91
+Shaktigaon384,Madhya Pradesh,30.5766,68.2631,52,25,27,6.67
+Suryadih385,Maharashtra,33.3722,72.9551,26,6,110,5.63
+Suryanagar386,Punjab,33.8958,82.6259,76,31,128,6.47
+Krishnakheda387,Haryana,21.2995,96.3861,36,50,97,6.56
+Sitawadi388,Punjab,28.7842,71.2733,92,17,97,5.9
+Ganeshpur389,Bihar,12.8303,78.6426,53,17,50,8.69
+Sitadih390,Uttar Pradesh,15.4539,86.1808,82,26,24,7.49
+Durgakheda391,Uttar Pradesh,9.7524,91.0458,74,27,119,8.32
+Nandpur392,Tamil Nadu,35.306,82.1326,11,31,123,5.72
+Gopalkheda393,Bihar,11.8685,96.9659,14,12,67,6.17
+Omgarh394,Tamil Nadu,14.1983,75.5022,95,5,76,6.12
+Krishnapur395,Karnataka,35.7498,87.1743,48,9,134,8.7
+Vishnugaon396,Rajasthan,25.0708,81.4847,96,9,36,6.69
+Pawangaon397,Uttar Pradesh,19.2328,82.5249,82,35,138,6.18
+Pawanpura398,Tamil Nadu,27.9034,74.2423,81,27,89,5.51
+Yamunatola399,Bihar,16.4983,91.0424,18,39,141,5.11
+Lakhangarh400,Bihar,17.9518,78.1519,69,23,95,7.34
+Pawanpura401,Bihar,14.0795,83.1042,21,48,82,6.18
+Gopaltola402,Bihar,26.459,96.7336,40,14,41,7.43
+Durgakheda403,Karnataka,10.1775,81.2422,21,12,29,5.97
+Lakhankhurd404,West Bengal,35.5063,92.7091,66,47,71,6.86
+Ganeshpur405,Karnataka,34.5701,95.6899,42,17,90,7.21
+Chandgaon406,Punjab,26.1085,95.2529,71,42,86,7.8
+Vishnuchak407,West Bengal,18.3943,71.531,59,18,35,8.92
+Ganeshpur408,Bihar,19.8268,94.0969,43,14,113,7.05
+Kalinagar409,Tamil Nadu,36.1213,89.9597,74,39,138,4.71
+Shaktipur410,Karnataka,26.375,77.7648,38,42,85,7.46
+Manojkheda411,Rajasthan,17.2496,83.6924,89,19,73,8.3
+Kishanwadi412,Bihar,12.4972,95.9334,39,14,63,7.67
+Manojkheda413,Bihar,34.2003,92.2399,50,36,137,8.34
+Bhawanwadi414,Uttar Pradesh,10.5259,90.005,43,40,68,6.95
+Vishnudih415,West Bengal,32.9596,81.4427,33,22,37,4.97
+Omchak416,Tamil Nadu,10.8948,73.312,69,43,103,6.72
+Shivkheda417,Bihar,33.4826,77.0471,96,33,148,6.12
+Gangakhurd418,Tamil Nadu,31.0904,70.464,28,45,72,7.53
+Kishanbari419,Karnataka,8.4648,78.8815,66,14,110,8.45
+Mohanwadi420,West Bengal,23.308,95.2133,100,30,48,7.45
+Kalikheda421,Haryana,8.2296,81.4616,18,36,48,8.63
+Omdih422,Bihar,29.2305,88.1667,97,47,105,7.82
+Anandgarh423,Bihar,35.3705,72.1101,34,9,24,5.47
+Rajgaon424,Punjab,24.9432,76.5062,67,23,121,5.62
+Yamunabari425,West Bengal,20.4642,83.4155,20,34,114,4.89
+Manojtola426,Rajasthan,31.4675,88.4358,95,6,61,4.68
+Gangatola427,Haryana,24.3784,92.1068,57,20,60,6.49
+Manojbari428,West Bengal,28.4703,75.8992,33,24,47,5.18
+Yamunanagar429,West Bengal,26.2272,81.081,48,7,64,8.38
+Ganeshgarh430,Uttar Pradesh,34.698,71.4754,79,34,93,7.26
+Anandpur431,Uttar Pradesh,30.1966,78.9434,93,36,134,7.06
+Krishnapur432,Karnataka,10.7706,76.4822,81,6,78,5.76
+Manojwadi433,Tamil Nadu,31.5769,68.6712,93,19,81,8.8
+Devtola434,Haryana,25.9307,68.6933,53,47,47,5.98
+Lakhangarh435,Madhya Pradesh,22.1115,88.3936,22,17,63,8.1
+Anandbari436,Uttar Pradesh,22.9882,79.1109,57,50,147,8.99
+Anandpura437,West Bengal,29.7754,94.9978,18,29,76,8.77
+Rampurpur438,Uttar Pradesh,13.555,92.0329,32,22,128,5.45
+Lakhanpura439,Tamil Nadu,20.3012,81.6508,30,35,99,7.26
+Shaktichak440,Karnataka,30.9428,70.0378,21,28,89,5.54
+Basantnagar441,West Bengal,32.3266,82.6572,78,7,98,7.63
+Devpur442,Rajasthan,21.7444,74.5351,27,15,91,8.35
+Ompur443,Maharashtra,15.4207,94.1214,93,32,87,7.37
+Kishanbari444,Uttar Pradesh,22.4394,69.467,44,37,145,7.2
+Rampurchak445,Maharashtra,32.2627,88.2155,41,37,122,5.83
+Manojkheda446,Haryana,15.0102,91.2939,38,30,36,5.74
+Rajgarh447,Uttar Pradesh,14.0075,95.5855,81,26,119,7.39
+Bhawankheda448,Madhya Pradesh,35.9579,87.1507,68,9,81,7.31
+Haripur449,Maharashtra,27.2787,80.6414,89,33,49,7.7
+Suryachak450,Punjab,25.5078,84.478,37,19,112,8.92
+Chandtola451,Maharashtra,29.8959,95.8852,70,25,73,7.87
+Harinagar452,Madhya Pradesh,25.1624,91.7445,34,50,39,7.15
+Kedartola453,West Bengal,34.5501,83.8418,76,6,115,6.84
+Shaktidih454,Rajasthan,19.478,93.4193,12,18,107,4.84
+Pawanpura455,Haryana,15.3931,91.2637,87,26,135,5.47
+Rampurtola456,Maharashtra,24.1376,83.2329,96,27,118,8.22
+Shaktipura457,Maharashtra,12.3658,90.9631,60,6,130,5.93
+Mohangaon458,Tamil Nadu,11.3101,72.355,59,35,49,5.19
+Manojbari459,Uttar Pradesh,29.2968,85.2878,81,16,33,5.82
+Harinagar460,Tamil Nadu,30.0676,86.167,17,46,26,4.64
+Rajgaon461,Punjab,27.3461,91.4915,25,21,96,8.98
+Kishankheda462,Tamil Nadu,29.9896,89.412,82,8,25,5.13
+Kalikheda463,Madhya Pradesh,28.1213,96.8534,43,21,55,8.35
+Yamunapur464,Uttar Pradesh,31.8582,92.1209,46,6,62,4.56
+Shaktinagar465,Rajasthan,31.6185,71.4137,15,23,89,8.43
+Nanddih466,Maharashtra,11.7519,69.8995,100,37,33,6.29
+Shivbari467,Madhya Pradesh,16.303,89.7166,94,27,95,7.46
+Manojpura468,Punjab,26.4415,82.9599,59,32,111,5.69
+Omkheda469,Uttar Pradesh,34.9001,78.4196,35,14,150,8.89
+Nandpur470,West Bengal,28.2859,86.0203,17,18,107,4.65
+Gangadih471,Uttar Pradesh,25.2084,71.3264,28,39,30,7.45
+Anandchak472,Karnataka,11.102,73.0708,98,37,31,7.05
+Mohanchak473,Uttar Pradesh,30.6118,76.0682,44,32,139,7.43
+Krishnakhurd474,Punjab,31.8491,91.018,58,23,29,5.17
+Bansipur475,Rajasthan,14.4876,84.1275,33,18,20,6.11
+Kedartola476,Madhya Pradesh,32.2711,90.9955,16,10,140,6.58
+Pawangarh477,Madhya Pradesh,24.864,68.4214,40,37,78,8.87
+Laxmiwadi478,Punjab,21.9069,82.0687,47,49,83,5.31
+Manojgaon479,Madhya Pradesh,12.4643,95.6086,42,9,26,8.59
+Sitanagar480,West Bengal,15.5127,85.6075,78,21,135,8.8
+Shivkheda481,Punjab,8.0609,95.3067,61,39,141,5.89
+Shivbari482,Karnataka,29.3119,86.5804,79,49,119,8.56
+Suryakhurd483,Rajasthan,23.527,89.757,84,13,58,6.21
+Omgarh484,Uttar Pradesh,15.0492,74.6312,57,44,76,6.03
+Lakhanchak485,Maharashtra,21.933,74.4394,85,23,140,7.4
+Laxmipura486,West Bengal,16.9677,79.588,94,32,120,6.85
+Devchak487,West Bengal,35.7767,74.3983,37,49,50,7.77
+Durgadih488,Rajasthan,16.6092,72.0328,81,7,150,8.14
+Rampurwadi489,Punjab,21.1884,86.6228,70,22,132,6.87
+Ganeshgaon490,Tamil Nadu,33.1724,74.4609,63,37,145,8.5
+Kishangaon491,Uttar Pradesh,13.1706,90.8614,75,22,70,5.87
+Rampurwadi492,Haryana,8.3577,82.6106,69,26,114,5.71
+Durgadih493,Punjab,9.7163,85.9371,22,17,93,6.76
+Yamunagarh494,Punjab,19.7943,85.4563,63,8,34,7.63
+Laxmitola495,West Bengal,18.2483,85.1181,21,16,36,8.6
+Bhawanbari496,Punjab,32.0838,80.9841,49,38,129,6.45
+Gopalkheda497,Karnataka,20.0011,73.1359,41,20,57,7.47
+Vishnukheda498,West Bengal,15.5833,89.4253,13,26,51,5.12
+Anandnagar499,Punjab,35.485,94.5693,79,7,100,4.64
+Krishnagarh500,Bihar,17.3716,81.5454,98,42,118,5.85
+Suryabari501,Uttar Pradesh,29.1423,94.0531,61,41,116,5.23
+Mohankheda502,Bihar,33.8997,76.6368,85,26,47,6.17
+Haripura503,Punjab,12.3595,77.0825,95,32,54,8.63
+Nandkhurd504,Punjab,15.6627,73.0733,99,13,69,5.59
+Lakhanpura505,Tamil Nadu,35.0753,80.8493,69,39,76,7.76
+Vishnunagar506,Karnataka,11.2172,88.2057,38,12,82,5.54
+Gopalkheda507,Madhya Pradesh,31.384,92.4006,87,11,52,8.0
+Chandpura508,Tamil Nadu,36.1551,74.2371,81,37,39,4.63
+Vishnugarh509,Tamil Nadu,30.5764,74.3254,81,38,67,7.22
+Gopaltola510,Punjab,32.7632,93.393,26,38,53,4.72
+Basantpur511,Tamil Nadu,16.3808,96.4574,62,26,128,5.94
+Bhawangarh512,Bihar,14.7823,68.3757,68,19,21,8.17
+Ganeshkhurd513,Haryana,27.5486,81.794,38,21,101,8.38
+Chandnagar514,Maharashtra,17.5741,77.0301,27,34,148,5.46
+Sitatola515,Madhya Pradesh,30.6036,83.442,74,34,25,7.59
+Bansigarh516,Haryana,21.5681,82.7025,42,7,88,4.79
+Mohannagar517,West Bengal,16.2769,73.8652,84,24,129,8.18
+Anandpur518,Maharashtra,19.6288,92.2524,48,42,58,4.51
+Kalikheda519,Bihar,19.4145,72.0019,52,6,21,8.76
+Laxmipur520,Rajasthan,8.6333,76.2568,30,10,49,6.79
+Manojpura521,Karnataka,17.5313,85.7267,34,44,36,6.57
+Shivgarh522,Karnataka,33.5753,92.4421,11,32,144,4.69
+Bansipur523,West Bengal,24.7847,86.9997,38,44,98,7.67
+Yamunapura524,Punjab,36.4577,70.2813,65,19,111,5.06
+Yamunakheda525,Karnataka,33.4209,73.9836,30,21,94,5.96
+Vishnupur526,Madhya Pradesh,9.8305,73.8799,83,10,145,4.86
+Durgatola527,Punjab,9.1328,92.9035,48,35,119,7.6
+Shivgarh528,Bihar,27.8864,74.0918,17,29,35,7.24
+Suryagarh529,Punjab,13.3455,96.1882,25,14,35,8.91
+Shivkhurd530,Uttar Pradesh,9.5469,77.9602,26,6,129,6.81
+Shaktiwadi531,Punjab,19.0459,70.4999,38,19,38,7.27
+Suryadih532,Karnataka,31.5199,92.3738,81,6,61,7.12
+Pawantola533,Bihar,30.2163,79.9764,89,45,103,8.31
+Kishankhurd534,Rajasthan,36.4136,85.302,32,16,21,6.37
+Laxmiwadi535,Tamil Nadu,11.5875,80.5995,34,36,138,6.99
+Harinagar536,Rajasthan,31.3342,72.704,61,11,80,4.72
+Vishnukheda537,Bihar,15.2633,84.0942,50,48,49,7.01
+Manojpura538,Haryana,23.2732,86.1983,90,41,51,4.97
+Suryagaon539,Rajasthan,20.8455,95.9757,94,6,29,5.46
+Haridih540,Uttar Pradesh,28.4997,83.4983,31,43,28,5.54
+Anandnagar541,Maharashtra,18.3548,83.0626,84,32,79,4.8
+Devbari542,Karnataka,11.6599,90.35,50,36,25,6.49
+Harigaon543,West Bengal,36.2873,85.8305,69,28,114,8.22
+Gangachak544,Uttar Pradesh,25.2723,71.1737,64,36,97,5.79
+Mohantola545,Bihar,19.6708,90.4848,77,30,22,7.83
+Bansikheda546,Bihar,34.0965,93.3466,70,13,148,5.43
+Bansipur547,Punjab,36.077,95.2512,87,43,119,5.56
+Devnagar548,Bihar,36.2436,80.8382,32,34,32,5.49
+Shaktigaon549,Uttar Pradesh,25.0367,70.5701,88,35,51,5.09
+Gangawadi550,Karnataka,34.7201,77.726,79,36,102,8.81
+Krishnabari551,Punjab,19.6658,74.6871,37,11,125,8.14
+Harichak552,Tamil Nadu,13.2531,87.463,93,19,149,6.47
+Vishnunagar553,Maharashtra,23.4502,69.0476,12,33,32,6.44
+Manojgarh554,Punjab,31.0445,77.3593,98,46,32,6.15
+Suryachak555,Uttar Pradesh,29.2929,92.1158,22,24,111,6.58
+Kedargarh556,Punjab,36.2064,78.5825,70,33,84,7.91
+Lakhanpura557,Rajasthan,11.2885,96.5681,39,44,149,7.51
+Rajpur558,Punjab,12.1528,92.4971,68,45,24,6.08
+Kalipura559,Maharashtra,9.7286,76.6941,57,44,24,7.29
+Haridih560,Uttar Pradesh,14.9023,79.5846,83,19,52,7.25
+Laxmichak561,West Bengal,10.035,76.0501,90,14,108,8.22
+Bhawanwadi562,Maharashtra,12.0768,69.6848,42,25,71,9.0
+Basantchak563,Madhya Pradesh,22.0559,89.0709,80,24,74,8.5
+Kishantola564,Karnataka,31.3005,92.5932,30,35,65,5.88
+Sitachak565,Haryana,9.6596,89.4342,37,39,103,7.93
+Pawanwadi566,Uttar Pradesh,20.7117,91.3874,81,29,101,7.33
+Kishandih567,West Bengal,31.6592,91.0059,77,14,110,8.06
+Anandbari568,Uttar Pradesh,11.3394,86.267,37,29,67,7.56
+Pawanpur569,Bihar,12.1831,89.8132,25,15,27,4.91
+Rampurkhurd570,Karnataka,8.235,78.1227,90,42,110,5.88
+Laxmibari571,Maharashtra,26.6516,74.5219,100,36,93,7.04
+Yamunawadi572,Karnataka,19.3089,69.7638,37,44,22,5.37
+Gopalgaon573,Haryana,13.095,69.2373,26,16,41,8.18
+Chandtola574,Uttar Pradesh,23.3145,77.5797,77,24,104,6.66
+Omdih575,Haryana,8.3008,75.0187,66,7,132,7.75
+Kalibari576,Haryana,28.9629,93.1879,67,20,54,4.91
+Kedarpura577,Punjab,28.5254,95.3842,46,21,120,4.51
+Yamunagaon578,Uttar Pradesh,11.5808,72.8351,15,36,68,8.5
+Mohangarh579,Tamil Nadu,11.7858,90.5166,52,20,31,6.81
+Vishnugarh580,Rajasthan,36.072,83.7139,16,13,114,8.41
+Krishnadih581,Uttar Pradesh,21.3666,94.243,26,49,129,4.53
+Shivpur582,Haryana,23.9303,78.6153,16,38,59,5.17
+Sitadih583,Maharashtra,22.1392,81.9481,30,6,78,6.28
+Ganeshgaon584,West Bengal,28.1899,90.4945,14,22,67,7.41
+Rajchak585,Punjab,9.5758,69.8422,40,9,35,7.79
+Shaktibari586,Haryana,17.2186,72.8501,85,24,139,5.96
+Ganeshwadi587,Rajasthan,12.9206,74.1866,33,28,121,7.37
+Ganeshpur588,Madhya Pradesh,35.392,83.5335,34,8,79,7.78
+Shaktipur589,Madhya Pradesh,12.7553,83.4092,96,44,110,5.06
+Gopaldih590,Karnataka,25.1494,79.3026,45,9,123,8.88
+Sitagarh591,Bihar,18.6507,93.8806,47,45,89,8.47
+Basantdih592,Uttar Pradesh,28.7751,73.5294,76,12,131,6.17
+Anandkhurd593,Tamil Nadu,31.6855,68.223,15,19,31,7.36
+Krishnapura594,Bihar,16.3903,83.0342,35,33,89,7.68
+Chandgaon595,Madhya Pradesh,30.1007,88.5252,18,9,130,6.56
+Basantwadi596,Uttar Pradesh,36.842,95.8074,85,29,112,6.41
+Nandkhurd597,Uttar Pradesh,20.2657,96.3969,29,32,35,7.11
+Rajtola598,Maharashtra,21.8107,83.4655,99,24,59,5.37
+Vishnudih599,Uttar Pradesh,19.0646,68.7353,92,5,141,7.06
+Kedarpur600,Uttar Pradesh,26.9278,83.9411,85,21,144,6.77
+Pawangaon601,Bihar,32.4426,87.0678,57,24,37,5.07
+Gangagarh602,Haryana,10.2838,94.7006,48,34,42,7.72
+Shaktitola603,Maharashtra,33.0399,82.2504,98,34,51,7.9
+Harichak604,Tamil Nadu,21.5802,94.6983,42,48,37,6.17
+Shaktidih605,Uttar Pradesh,19.444,96.5284,51,37,103,4.81
+Gopalkheda606,West Bengal,13.28,77.551,51,11,91,5.47
+Manojtola607,Bihar,9.9689,90.1298,17,8,39,8.89
+Rajpur608,Haryana,29.4658,94.7303,50,23,146,4.63
+Krishnakhurd609,Uttar Pradesh,24.6662,73.3905,73,43,134,8.91
+Rajchak610,Uttar Pradesh,17.0195,78.7441,88,20,147,6.55
+Gopaltola611,West Bengal,16.0306,75.3485,81,40,147,7.56
+Basantpura612,Haryana,36.223,72.1,87,36,55,5.69
+Shivkhurd613,Haryana,14.3403,90.6363,37,26,144,5.28
+Haridih614,Tamil Nadu,29.5585,68.8832,35,19,142,8.0
+Ganeshwadi615,Punjab,22.0977,69.617,86,11,128,8.45
+Yamunabari616,Uttar Pradesh,27.463,87.3218,35,28,140,7.67
+Kishankhurd617,Maharashtra,15.1599,74.2044,97,30,49,6.37
+Yamunapur618,Bihar,30.4842,81.7759,36,15,28,8.34
+Suryadih619,Maharashtra,23.0944,80.2289,99,46,117,5.04
+Kalikheda620,Rajasthan,31.7862,92.1284,15,33,33,7.18
+Omwadi621,Punjab,18.9258,72.3118,87,18,115,5.58
+Anandkhurd622,Tamil Nadu,27.6524,73.5353,31,17,21,4.95
+Laxminagar623,Haryana,13.3305,82.5522,56,5,66,5.98
+Bansikheda624,West Bengal,23.195,91.2572,88,35,47,8.76
+Rajkheda625,Uttar Pradesh,27.2801,84.0246,71,25,64,6.88
+Yamunapura626,Punjab,35.9919,94.2374,80,36,87,5.75
+Harigarh627,Haryana,17.2166,81.308,63,39,33,5.3
+Vishnupura628,Karnataka,31.1652,80.2324,95,19,129,8.65
+Anandnagar629,Rajasthan,17.1216,90.8424,68,30,24,7.97
+Lakhangarh630,Madhya Pradesh,25.6046,79.8342,40,11,114,8.61
+Kishantola631,Bihar,13.9589,79.702,92,48,122,8.95
+Shivkheda632,Punjab,26.958,68.1978,33,8,65,7.76
+Mohanpura633,Madhya Pradesh,32.0354,69.2663,26,29,144,8.69
+Suryagarh634,West Bengal,8.9844,85.9382,82,48,96,6.11
+Devgarh635,Uttar Pradesh,11.1266,70.5606,76,42,78,5.08
+Sitakheda636,Maharashtra,25.1351,68.6419,23,19,26,6.74
+Omgaon637,Punjab,33.8462,88.2624,33,9,50,8.98
+Chandkheda638,Uttar Pradesh,11.6049,73.6111,23,13,121,4.57
+Bhawanwadi639,Rajasthan,30.9064,77.0973,40,14,94,5.08
+Laxmigaon640,Madhya Pradesh,12.4793,68.4274,70,8,76,6.59
+Durgakheda641,Bihar,10.0255,72.464,70,6,25,4.76
+Bansichak642,Uttar Pradesh,8.7842,87.1876,99,19,20,6.88
+Ombari643,Punjab,25.3158,82.205,18,25,147,8.61
+Vishnupur644,Maharashtra,14.695,69.5708,97,30,104,7.52
+Rajchak645,Rajasthan,9.2793,73.8672,84,46,114,8.75
+Shivchak646,Uttar Pradesh,13.9706,93.1277,20,25,74,7.5
+Sitapura647,Rajasthan,32.8381,82.7642,18,31,146,6.19
+Rajtola648,Karnataka,9.2202,91.6202,71,36,94,7.23
+Bhawanchak649,Punjab,22.043,84.3908,87,30,118,8.98
+Gangapur650,Punjab,8.8447,84.8424,55,22,46,5.9
+Manojtola651,Karnataka,27.8049,77.3868,55,9,40,7.89
+Chandkhurd652,Tamil Nadu,26.7518,83.7867,99,11,37,8.55
+Bhawangarh653,Bihar,23.4651,82.6815,29,28,61,8.5
+Ompura654,Rajasthan,16.9782,91.6944,74,28,141,5.2
+Gangabari655,Punjab,30.5369,75.3126,32,45,67,6.51
+Mohanwadi656,Maharashtra,9.5506,68.312,82,32,64,4.81
+Suryadih657,Maharashtra,20.6453,70.7243,39,16,74,5.5
+Bansigarh658,West Bengal,14.9557,74.1086,28,30,116,5.37
+Durgabari659,Tamil Nadu,21.944,72.1524,20,5,43,7.61
+Durgakhurd660,West Bengal,25.324,95.8609,58,17,87,8.17
+Gangagarh661,Bihar,26.5469,79.2151,14,18,90,8.98
+Lakhanpur662,Maharashtra,35.3178,76.3499,69,6,41,5.93
+Lakhanwadi663,Tamil Nadu,16.6592,78.8007,14,34,47,7.01
+Sitanagar664,Punjab,32.8074,89.5429,92,13,147,8.28
+Manojkheda665,Karnataka,18.3006,82.9611,44,19,148,7.68
+Bansikhurd666,Madhya Pradesh,18.865,71.484,59,23,70,8.28
+Chandkheda667,Maharashtra,34.649,93.0894,63,36,100,5.11
+Pawanchak668,Tamil Nadu,36.252,81.2492,61,35,51,5.75
+Rajkheda669,Rajasthan,25.4845,94.9538,22,40,149,4.7
+Sitakhurd670,Tamil Nadu,12.4921,79.317,10,18,29,8.33
+Anandkhurd671,Bihar,34.3978,76.6156,38,32,22,5.97
+Vishnugarh672,Uttar Pradesh,15.122,90.4605,18,28,108,8.59
+Vishnugaon673,Haryana,26.5676,73.0997,24,11,20,6.12
+Krishnanagar674,Bihar,15.5413,89.7354,32,6,72,5.81
+Kedartola675,Uttar Pradesh,20.1413,78.8809,97,37,29,5.97
+Chanddih676,Haryana,23.4622,90.3592,13,14,65,7.66
+Kaligaon677,Maharashtra,15.3069,71.3315,67,28,30,7.54
+Chandchak678,Uttar Pradesh,35.9881,72.4987,51,47,150,6.19
+Nanddih679,West Bengal,11.0665,75.0892,53,7,47,8.9
+Anandgaon680,Madhya Pradesh,27.099,76.7815,90,32,43,7.25
+Gangapura681,Bihar,30.1029,91.8799,48,7,146,4.61
+Ganeshbari682,Uttar Pradesh,19.8469,76.0895,80,30,101,7.79
+Krishnachak683,West Bengal,34.3423,89.6618,49,11,89,4.6
+Kishannagar684,Maharashtra,25.6863,96.2437,43,10,81,8.63
+Anandbari685,Punjab,22.6399,76.0895,90,33,75,6.33
+Yamunakhurd686,Tamil Nadu,35.5545,91.4308,50,32,102,4.8
+Pawanchak687,West Bengal,33.7633,95.1241,97,29,141,7.33
+Ganeshnagar688,West Bengal,35.5189,70.6749,88,19,96,6.59
+Gopalgaon689,Karnataka,21.762,80.342,33,47,121,7.66
+Shaktinagar690,Maharashtra,24.5433,76.8546,49,49,25,7.69
+Sitatola691,Uttar Pradesh,8.8728,93.9389,20,10,121,4.67
+Bhawangaon692,Punjab,16.8977,68.9523,91,8,31,8.75
+Yamunakheda693,Karnataka,34.9126,72.9633,32,10,87,5.51
+Sitabari694,Madhya Pradesh,19.3152,75.6532,55,13,99,4.59
+Kedarkhurd695,Rajasthan,33.5023,81.0468,55,39,110,6.49
+Harigaon696,Madhya Pradesh,26.0202,85.3927,46,43,132,6.49
+Kedarkheda697,Tamil Nadu,31.7138,73.4187,36,10,116,8.49
+Omkhurd698,Haryana,21.3361,74.1474,53,7,97,7.57
+Rampurpur699,Madhya Pradesh,27.4785,94.8353,17,35,23,7.97
+Mohangaon700,Maharashtra,36.8884,70.0835,61,40,90,5.19
+Vishnugarh701,Punjab,20.9262,91.0712,96,16,63,4.71
+Kedarpura702,Madhya Pradesh,20.8057,84.2945,21,26,51,7.55
+Nandgarh703,Punjab,18.8108,88.9794,69,47,73,6.82
+Shivdih704,Maharashtra,13.7048,83.2196,97,38,27,6.83
+Yamunanagar705,Uttar Pradesh,14.4479,89.2596,59,22,76,5.8
+Bhawanwadi706,Karnataka,26.18,84.9305,98,14,118,7.19
+Mohanchak707,Rajasthan,10.1319,87.8854,63,50,23,8.03
+Suryanagar708,Rajasthan,32.6405,72.916,65,48,91,5.82
+Kishanpur709,Uttar Pradesh,17.1902,91.8496,68,26,110,7.9
+Bhawangaon710,Punjab,28.7168,72.4063,91,6,105,8.64
+Suryakhurd711,Maharashtra,31.5432,77.6735,22,42,120,8.19
+Mohanpura712,Tamil Nadu,11.8072,84.4659,53,22,65,4.6
+Lakhanpur713,Haryana,15.383,78.859,89,42,79,6.5
+Bhawanbari714,West Bengal,18.4032,95.4118,50,33,127,8.46
+Pawangaon715,Uttar Pradesh,26.2073,71.5762,34,33,30,7.57
+Manojgarh716,Punjab,18.1815,71.8079,36,9,143,4.74
+Nanddih717,Madhya Pradesh,36.4044,81.4525,74,29,21,6.47
+Bhawangarh718,Maharashtra,19.713,81.9774,56,29,140,6.07
+Basantkheda719,Rajasthan,32.6679,86.8937,10,11,111,7.68
+Nanddih720,Bihar,28.7921,68.7312,40,47,34,5.8
+Shaktigarh721,West Bengal,35.2058,80.8398,92,42,35,7.12
+Manojchak722,Karnataka,10.6456,79.7738,16,47,45,7.29
+Bhawangaon723,Haryana,27.477,77.2683,70,46,53,8.91
+Kaliwadi724,West Bengal,32.8332,81.1391,56,29,35,8.92
+Chandkhurd725,Tamil Nadu,14.747,90.3103,84,6,104,8.72
+Gangagaon726,Madhya Pradesh,17.2204,77.2802,45,42,57,4.77
+Bansichak727,West Bengal,8.9502,75.8013,18,39,45,8.31
+Shivdih728,Bihar,29.4983,92.4896,88,31,62,5.68
+Pawankhurd729,Punjab,17.9201,80.3137,25,40,34,7.75
+Anandpura730,Madhya Pradesh,16.0925,73.4408,29,22,129,6.01
+Omwadi731,Tamil Nadu,26.0097,78.9751,40,26,107,5.68
+Mohanwadi732,Uttar Pradesh,15.265,94.677,81,42,94,5.29
+Krishnawadi733,Tamil Nadu,36.8931,74.7861,85,34,69,7.32
+Shivwadi734,West Bengal,27.7128,85.5206,52,5,137,5.48
+Bansigarh735,Rajasthan,12.0245,81.3869,55,29,87,8.66
+Anandchak736,Bihar,32.9718,89.3011,50,10,109,7.58
+Vishnubari737,Karnataka,30.085,68.6829,13,21,146,5.79
+Haridih738,Uttar Pradesh,8.4535,73.4682,95,42,145,6.64
+Kishanwadi739,Rajasthan,22.9306,79.0221,51,37,94,7.38
+Bhawanwadi740,West Bengal,30.3809,90.0005,57,35,146,8.81
+Chandgarh741,Punjab,9.311,90.6617,13,37,72,7.72
+Kedarkhurd742,Karnataka,14.2879,73.8897,30,41,105,8.19
+Laxminagar743,Bihar,9.7889,87.0366,66,16,104,6.2
+Bhawanchak744,Maharashtra,23.8028,71.7006,37,29,77,8.11
+Chandpura745,Tamil Nadu,30.9278,86.6601,64,15,145,8.97
+Manojchak746,Haryana,15.1564,73.9219,72,45,105,8.85
+Bansikhurd747,Karnataka,18.0676,76.3383,10,39,119,7.12
+Devgaon748,Maharashtra,17.7997,70.3111,33,27,93,5.03
+Gangabari749,Rajasthan,20.3622,68.9771,48,48,38,8.22
+Rajkheda750,Karnataka,36.631,80.2106,14,38,121,6.8
+Shivgaon751,Bihar,16.4182,68.2551,43,32,145,5.62
+Chandnagar752,Bihar,22.079,94.7223,41,20,116,6.61
+Lakhangaon753,Maharashtra,30.2604,83.1131,21,14,100,5.47
+Rampurwadi754,Tamil Nadu,21.2877,91.014,78,13,75,8.36
+Pawankheda755,Bihar,20.0574,75.7683,99,43,41,5.65
+Anandkhurd756,Haryana,36.9694,91.5052,37,21,75,8.02
+Bansikhurd757,Madhya Pradesh,33.8186,73.6397,58,43,116,7.92
+Ganeshkhurd758,Karnataka,35.4422,95.5092,49,29,64,8.49
+Rajchak759,Haryana,34.364,87.6023,60,10,122,5.4
+Shaktigarh760,Karnataka,10.8429,90.7098,10,50,43,7.71
+Kishanchak761,West Bengal,20.0027,73.7477,80,32,49,5.06
+Omdih762,Punjab,16.9122,80.2575,39,50,51,7.5
+Shaktikhurd763,West Bengal,28.3562,83.3255,76,13,121,7.22
+Bhawandih764,Bihar,18.3091,82.6369,24,41,137,7.89
+Basantpur765,Haryana,28.8178,90.5626,58,18,119,5.55
+Ganeshdih766,Punjab,31.2312,94.0019,55,32,148,8.03
+Lakhangaon767,Karnataka,14.4954,74.4819,42,12,75,6.56
+Laxmidih768,Rajasthan,34.4917,92.3175,33,12,48,6.63
+Krishnagarh769,Tamil Nadu,20.9452,80.8403,85,47,72,4.84
+Mohankhurd770,Madhya Pradesh,17.0239,68.8078,65,49,68,8.99
+Suryabari771,Bihar,24.2696,90.7128,50,22,83,8.74
+Suryachak772,Maharashtra,23.7877,80.2719,30,49,52,6.09
+Chandgaon773,Karnataka,31.9353,87.7123,53,46,46,6.78
+Rajpur774,Bihar,26.7582,83.2099,30,30,55,8.62
+Shivgaon775,Rajasthan,21.9318,81.8116,74,28,70,6.82
+Sitapur776,Rajasthan,28.3988,84.5646,90,23,21,4.84
+Kalipur777,Haryana,11.6387,80.6892,42,15,143,8.94
+Manojpura778,Karnataka,14.2427,75.4772,39,7,77,7.25
+Kishannagar779,Maharashtra,23.7794,77.924,37,22,21,7.64
+Hariwadi780,Maharashtra,14.3874,85.4861,95,8,92,5.57
+Bansiwadi781,Haryana,29.5127,92.1304,99,9,76,5.16
+Omgaon782,Bihar,33.1513,89.2688,51,38,137,5.87
+Suryapur783,Tamil Nadu,23.5655,87.2126,25,38,105,6.62
+Nandnagar784,Rajasthan,20.2833,94.4983,29,12,131,5.66
+Kishankheda785,Punjab,12.544,73.165,80,49,56,4.63
+Chandnagar786,Rajasthan,19.6795,78.8338,79,36,96,6.24
+Lakhankheda787,Tamil Nadu,14.1718,72.1932,84,33,119,5.32
+Durgagarh788,Maharashtra,32.3757,85.582,40,7,133,7.41
+Kaliwadi789,Madhya Pradesh,16.1671,91.9723,24,17,22,5.41
+Vishnugaon790,Tamil Nadu,22.592,93.6037,55,34,80,7.94
+Gopalnagar791,Punjab,18.0431,83.5692,89,32,118,7.63
+Pawankhurd792,Punjab,36.4218,88.6672,97,26,68,5.6
+Kedarbari793,Tamil Nadu,33.1927,78.7534,75,21,116,7.33
+Gangawadi794,Bihar,33.0169,71.2965,25,48,98,5.22
+Shaktikhurd795,Punjab,15.0263,71.3181,71,41,144,4.92
+Rampurgarh796,Bihar,35.7492,81.687,27,50,31,5.73
+Yamunadih797,Tamil Nadu,18.5037,87.1061,11,39,57,4.9
+Laxmigaon798,Karnataka,36.7922,81.9014,98,26,116,7.51
+Harichak799,West Bengal,9.1876,89.6046,76,7,147,7.48
+Suryachak800,West Bengal,10.6685,89.6411,43,47,131,7.96
+Kaliwadi801,Madhya Pradesh,36.7394,77.3217,76,22,61,6.61
+Mohantola802,West Bengal,28.7784,83.152,98,50,20,5.94
+Nandgarh803,Maharashtra,26.8696,82.4908,41,27,138,5.42
+Sitabari804,Punjab,11.6933,82.1338,59,25,70,5.66
+Manojkhurd805,Karnataka,9.8965,90.3064,71,26,61,4.83
+Shaktibari806,Karnataka,14.0053,94.375,45,16,94,7.45
+Pawanbari807,Madhya Pradesh,9.3636,81.7331,84,7,83,5.61
+Gangachak808,Tamil Nadu,23.2999,84.8353,32,37,134,7.43
+Lakhanbari809,Punjab,9.703,89.3191,20,49,82,8.03
+Ompura810,Bihar,13.9021,89.7301,57,21,20,7.58
+Nandpur811,Haryana,27.2377,78.0631,34,43,149,7.22
+Basantkhurd812,Bihar,28.8204,83.687,19,8,78,6.43
+Omgaon813,Maharashtra,16.4013,96.7842,48,25,80,4.57
+Anandpura814,Maharashtra,9.0016,80.768,22,43,63,7.99
+Laxmiwadi815,Uttar Pradesh,36.6773,96.559,32,20,103,7.29
+Devgarh816,Maharashtra,25.8214,79.5822,57,29,118,5.05
+Shaktigaon817,Madhya Pradesh,16.878,77.9326,56,30,95,7.23
+Lakhankhurd818,Karnataka,36.7072,72.4469,55,37,26,5.95
+Lakhankheda819,Madhya Pradesh,27.3838,76.2564,61,20,120,6.76
+Manojtola820,Haryana,25.035,80.6478,100,29,42,6.91
+Durgagarh821,Tamil Nadu,27.2713,69.2238,95,35,105,7.15
+Anandkhurd822,Uttar Pradesh,14.1723,84.7633,36,17,145,6.8
+Durgatola823,Punjab,26.3505,95.3362,65,43,145,7.38
+Kedarpur824,Punjab,21.0591,81.9278,68,38,60,4.98
+Basantwadi825,Madhya Pradesh,14.1563,69.7666,58,29,41,7.0
+Sitanagar826,Uttar Pradesh,9.7316,92.7667,85,26,136,8.29
+Yamunadih827,West Bengal,10.8752,70.7391,99,30,89,8.37
+Omkhurd828,Bihar,9.0359,95.4888,68,27,129,8.92
+Yamunapura829,West Bengal,32.3402,87.4863,78,29,46,5.9
+Lakhanpur830,Rajasthan,27.6856,83.8138,50,13,132,6.52
+Basantchak831,Tamil Nadu,24.871,81.0919,54,47,119,7.2
+Yamunatola832,Bihar,34.4181,92.4172,34,24,28,7.81
+Ganeshchak833,Maharashtra,23.7067,76.1882,59,34,68,4.58
+Rampurnagar834,West Bengal,20.254,73.4565,44,46,25,7.58
+Pawantola835,Haryana,27.8345,96.1455,58,27,61,5.04
+Gangakheda836,Madhya Pradesh,9.0032,82.8366,40,20,43,5.12
+Kedarchak837,West Bengal,31.7207,87.7502,92,35,137,8.09
+Chanddih838,Haryana,26.3178,76.8939,11,31,99,8.45
+Gangagaon839,West Bengal,28.5772,78.2432,89,19,125,6.14
+Vishnugaon840,Tamil Nadu,34.6518,92.5397,33,24,47,8.14
+Mohandih841,Haryana,13.1411,87.6419,21,20,21,8.84
+Devbari842,West Bengal,18.0863,93.6648,92,10,104,6.28
+Mohandih843,Bihar,10.0206,81.7883,35,26,22,4.83
+Omdih844,Tamil Nadu,18.7293,91.4299,41,27,59,7.93
+Ganeshpura845,Rajasthan,36.2114,84.7016,23,10,57,8.85
+Chandgaon846,Rajasthan,21.5927,75.3165,71,29,110,7.26
+Kedartola847,Maharashtra,28.8723,84.3599,80,50,41,6.65
+Kalidih848,Bihar,32.228,88.805,78,19,25,8.18
+Yamunatola849,West Bengal,23.3513,73.7188,54,19,99,6.63
+Kishanpura850,Bihar,34.0367,76.0114,53,14,71,8.05
+Manojdih851,Maharashtra,30.3934,69.0837,77,16,78,7.98
+Kishankheda852,Haryana,33.2894,75.7297,35,17,134,5.62
+Gopalgarh853,Karnataka,31.0132,73.8868,78,10,69,8.24
+Laxminagar854,Haryana,16.8479,92.6552,17,36,110,5.33
+Laxminagar855,Rajasthan,20.1219,95.2735,56,37,61,7.95
+Manojpur856,Tamil Nadu,27.3914,93.2138,50,9,113,6.29
+Manojwadi857,Tamil Nadu,21.2012,94.8107,38,36,33,8.61
+Durgadih858,Tamil Nadu,24.3338,73.4939,65,11,54,6.3
+Rajkhurd859,Karnataka,17.8533,83.6692,53,14,89,4.59
+Krishnapura860,Madhya Pradesh,8.6452,83.9156,67,20,137,8.39
+Bhawanpur861,Rajasthan,25.7656,82.7894,97,39,84,7.33
+Gangapura862,Haryana,32.4604,72.2589,100,37,47,7.94
+Omtola863,Maharashtra,25.7809,79.382,89,33,98,8.82
+Harichak864,Haryana,24.5567,93.4276,90,24,99,4.56
+Pawandih865,Punjab,29.9783,70.5899,97,13,82,8.27
+Gopalkheda866,Haryana,29.4812,81.7776,33,30,27,5.89
+Sitadih867,Rajasthan,29.8434,80.5157,43,48,30,5.19
+Basantwadi868,West Bengal,31.103,83.57,89,44,112,8.95
+Shaktiwadi869,West Bengal,12.2319,77.2292,18,14,108,4.61
+Pawangarh870,Rajasthan,31.606,96.8183,66,11,24,6.94
+Gangawadi871,Maharashtra,34.4557,71.2737,94,42,133,6.0
+Durgagarh872,Uttar Pradesh,35.7008,76.9704,22,12,41,4.7
+Kalikheda873,Tamil Nadu,36.4277,92.0546,21,28,123,4.61
+Basantdih874,Madhya Pradesh,9.6797,81.3093,31,30,79,8.85
+Pawanchak875,Madhya Pradesh,35.8397,81.5895,36,40,139,6.2
+Kedarpur876,Haryana,33.2363,87.286,41,40,21,6.7
+Chandbari877,Maharashtra,31.271,71.2297,59,10,47,7.44
+Devtola878,Uttar Pradesh,18.0234,76.6476,33,17,114,6.28
+Haridih879,Uttar Pradesh,15.3049,77.4082,70,37,150,7.31
+Mohangarh880,Madhya Pradesh,22.0292,76.3899,73,25,99,7.18
+Nandpur881,Karnataka,31.9653,89.5964,91,11,77,7.09
+Shaktidih882,Madhya Pradesh,19.8843,91.936,60,31,35,7.24
+Gangapur883,Karnataka,36.6728,70.9712,40,49,128,4.77
+Harigarh884,West Bengal,36.8902,87.7714,74,6,149,6.32
+Ganeshkhurd885,Tamil Nadu,22.595,89.2829,86,28,97,8.9
+Rajtola886,Tamil Nadu,26.1581,83.1424,56,43,103,8.41
+Basantwadi887,Madhya Pradesh,34.5685,89.6223,49,9,134,6.66
+Sitawadi888,Haryana,30.4067,75.5181,41,13,133,6.99
+Mohanwadi889,Bihar,28.7696,73.637,69,33,108,7.72
+Pawannagar890,Madhya Pradesh,36.0787,74.4013,99,40,51,4.99
+Kishandih891,Karnataka,14.4186,70.2056,73,48,61,7.33
+Bansipur892,Tamil Nadu,31.4495,74.2673,43,11,146,4.61
+Rampurgaon893,Haryana,33.589,81.2714,28,17,91,7.34
+Anandgarh894,Bihar,29.032,89.1187,79,38,26,5.83
+Shaktipura895,Uttar Pradesh,16.5066,72.5236,41,33,148,6.33
+Lakhandih896,Haryana,35.5597,82.082,94,43,57,5.92
+Chandgarh897,Punjab,23.9913,78.4501,98,41,119,8.31
+Shaktidih898,Haryana,14.4017,90.3719,91,20,76,7.36
+Kishankhurd899,West Bengal,8.1386,86.1665,92,29,52,6.96
+Shaktigarh900,Tamil Nadu,25.3478,88.6888,96,20,116,4.91
+Ombari901,West Bengal,32.059,86.3211,95,21,33,7.29
+Anandbari902,Punjab,35.5246,90.0481,88,44,38,5.84
+Shivpur903,Bihar,8.8243,87.8187,30,39,97,7.45
+Suryapur904,Madhya Pradesh,36.8925,73.088,60,8,149,8.26
+Rajchak905,Bihar,23.9373,84.914,30,14,62,8.81
+Haridih906,Maharashtra,32.1499,90.0693,18,38,96,8.57
+Kalikhurd907,Bihar,31.5719,79.7661,87,10,30,5.69
+Anandpur908,Haryana,20.638,84.5593,71,35,58,5.39
+Vishnuwadi909,Uttar Pradesh,26.7039,74.1876,32,46,74,6.38
+Gopalnagar910,Maharashtra,34.3388,72.4596,80,10,20,4.74
+Kedardih911,Tamil Nadu,22.514,82.1471,86,36,51,7.89
+Durgapur912,Madhya Pradesh,11.0342,88.5993,75,40,119,5.69
+Suryakheda913,Punjab,18.7088,84.9716,69,47,130,8.74
+Pawandih914,Madhya Pradesh,10.9743,89.482,60,31,118,7.8
+Durgachak915,Bihar,8.5082,84.8044,67,10,47,5.94
+Nandgaon916,Karnataka,13.8956,68.6587,40,19,136,4.71
+Basantgaon917,Haryana,13.9496,81.3783,25,41,86,6.75
+Anandchak918,Tamil Nadu,16.3637,68.1959,73,16,146,8.96
+Gopalgarh919,Tamil Nadu,31.2196,83.1303,45,35,123,7.47
+Krishnapura920,Bihar,12.1291,80.5194,17,31,123,8.5
+Laxmidih921,Karnataka,16.9472,96.3968,77,23,112,5.06
+Suryawadi922,Karnataka,22.4025,79.995,75,9,150,7.1
+Kedardih923,Karnataka,13.0775,76.0399,87,36,44,6.37
+Bhawanpur924,Maharashtra,32.6886,91.6682,100,15,140,5.17
+Pawangarh925,Karnataka,21.4156,72.1491,84,34,127,8.38
+Manojkhurd926,Karnataka,19.5891,73.9051,51,34,140,8.68
+Gopalkheda927,West Bengal,28.2028,76.9183,41,48,108,5.55
+Gopalpur928,Punjab,23.3626,69.6542,69,25,100,7.85
+Lakhantola929,Karnataka,30.21,94.618,77,46,129,7.7
+Chandpura930,Punjab,9.3595,94.374,88,41,100,5.96
+Anandgaon931,Karnataka,31.078,83.2694,35,14,31,7.75
+Vishnukheda932,Karnataka,15.9443,86.7492,31,50,124,4.82
+Devgarh933,Madhya Pradesh,33.4217,72.7012,19,27,100,5.85
+Bhawanchak934,Madhya Pradesh,21.66,78.4254,34,6,119,5.36
+Suryakhurd935,Haryana,31.9301,77.7892,23,5,133,7.64
+Nandnagar936,Tamil Nadu,21.1343,81.3017,37,14,122,5.63
+Yamunanagar937,Madhya Pradesh,8.3071,91.2582,28,42,35,7.39
+Mohantola938,Bihar,16.1084,84.0454,83,15,144,6.43
+Suryakheda939,Maharashtra,9.4205,77.501,80,36,103,5.78
+Rajgaon940,Karnataka,11.5262,83.7639,64,11,44,6.88
+Krishnakheda941,Madhya Pradesh,36.5561,74.595,54,46,96,7.94
+Shaktibari942,Bihar,30.5793,96.6013,15,37,25,5.59
+Yamunapur943,Haryana,8.4359,70.2767,40,36,39,5.23
+Kedarpur944,Uttar Pradesh,11.7366,93.3314,90,6,37,7.09
+Chandbari945,Bihar,34.1012,93.2111,90,38,97,7.94
+Gopalwadi946,Bihar,11.5822,78.4446,30,45,23,5.42
+Pawankheda947,Karnataka,8.5606,88.4959,38,29,117,7.43
+Laxmikhurd948,Rajasthan,15.1453,68.9359,71,44,144,7.07
+Bhawanwadi949,Bihar,19.7462,90.5764,75,40,125,7.71
+Chandkheda950,Haryana,34.5136,83.2305,35,8,43,7.08
+Nandgarh951,Punjab,18.0542,95.8555,92,26,111,6.27
+Suryatola952,Rajasthan,31.1735,82.1173,96,19,45,7.88
+Kaligaon953,West Bengal,13.8631,93.0295,28,15,80,7.97
+Chandgarh954,Haryana,36.1973,80.5966,75,35,89,8.85
+Shaktigaon955,Madhya Pradesh,8.5701,71.1493,86,6,57,7.41
+Rampurpur956,Punjab,32.1403,71.6219,82,39,20,5.38
+Shivpura957,Madhya Pradesh,8.5063,72.685,14,8,146,7.61
+Omgaon958,Madhya Pradesh,19.8211,93.0181,60,37,23,7.37
+Yamunagarh959,Punjab,27.0697,93.8589,75,37,46,5.0
+Rajpur960,Rajasthan,26.1253,89.8927,91,30,78,4.95
+Yamunakhurd961,Karnataka,24.5328,76.7571,25,43,47,7.59
+Lakhantola962,Bihar,27.4937,91.2768,82,34,103,8.93
+Kishangarh963,Bihar,16.3941,87.85,93,15,85,6.53
+Shaktigarh964,Punjab,28.2166,94.0891,22,22,73,5.82
+Shaktipura965,Bihar,28.2552,78.9587,79,24,24,6.46
+Yamunawadi966,Punjab,18.4004,81.6745,64,19,47,7.92
+Suryabari967,West Bengal,29.8997,75.7042,61,23,123,7.47
+Ompur968,Uttar Pradesh,32.9979,93.9227,76,13,134,6.14
+Anandgarh969,Bihar,33.2067,86.5685,82,26,91,7.37
+Gangabari970,West Bengal,21.7531,68.6832,73,17,58,5.46
+Shivgaon971,Haryana,24.9713,89.2832,36,31,44,4.6
+Krishnagaon972,Karnataka,21.2833,84.0665,78,49,87,7.13
+Omgarh973,Rajasthan,18.1377,71.0935,92,26,25,6.64
+Kedarwadi974,Punjab,13.7875,84.0643,48,30,129,6.18
+Krishnabari975,Uttar Pradesh,35.4826,93.668,83,30,54,7.41
+Nandgaon976,West Bengal,21.2169,73.6383,73,38,76,8.9
+Nanddih977,Uttar Pradesh,14.6072,86.2717,70,12,61,7.77
+Bhawannagar978,Bihar,17.3004,82.0587,84,29,49,7.03
+Rajchak979,Karnataka,32.7088,68.0531,81,44,32,6.21
+Bhawannagar980,Madhya Pradesh,22.9356,83.0002,79,14,89,8.75
+Ganganagar981,Haryana,15.9842,84.9554,89,45,108,5.79
+Kaliwadi982,Madhya Pradesh,31.5395,78.3826,67,18,34,7.56
+Bhawankheda983,Karnataka,25.6347,94.9571,79,26,112,5.65
+Suryatola984,West Bengal,31.6093,82.2106,52,24,109,7.51
+Nandgarh985,Bihar,34.1439,84.4715,100,47,145,5.58
+Sitatola986,West Bengal,10.261,85.9674,37,35,149,5.48
+Pawangaon987,Karnataka,29.9614,82.4016,39,10,82,8.2
+Sitakhurd988,Karnataka,22.8744,77.7844,52,10,144,5.51
+Bhawanchak989,Madhya Pradesh,21.7076,91.9438,93,28,124,5.39
+Basantnagar990,Bihar,17.6943,85.0989,10,28,143,5.81
+Shaktikhurd991,Bihar,31.9029,80.3933,26,35,31,6.8
+Kedargaon992,Punjab,23.2501,74.8145,30,37,47,5.45
+Bansibari993,Maharashtra,9.1595,91.3329,73,48,41,5.21
+Anandbari994,Uttar Pradesh,15.0699,69.7978,93,17,21,8.59
+Rajgaon995,Tamil Nadu,10.3636,84.0906,69,11,114,6.72
+Omgarh996,Rajasthan,36.7307,69.7834,45,12,84,7.81
+Omgaon997,Bihar,15.1462,69.8546,82,44,133,8.73
+Basantgaon998,Madhya Pradesh,25.3333,86.9911,57,12,123,4.99
+Manojkheda999,Uttar Pradesh,31.2395,70.2837,31,37,22,7.83

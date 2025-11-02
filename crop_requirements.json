@@ -1,0 +1,25 @@
+{
+    "apple":     {"temp_min": 10, "temp_max": 24, "monthly_rain_min": 30,  "monthly_rain_max": 150, "humidity_min": 40, "humidity_max": 85, "ph_min": 5.5, "ph_max": 7.5},
+    "banana":    {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 80,  "monthly_rain_max": 300, "humidity_min": 60, "humidity_max": 95, "ph_min": 5.0, "ph_max": 7.0},
+    "blackgram": {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 40,  "monthly_rain_max": 200, "humidity_min": 40, "humidity_max": 85, "ph_min": 6.0, "ph_max": 8.0},
+    "chickpea":  {"temp_min": 15, "temp_max": 30, "monthly_rain_min": 10,  "monthly_rain_max": 80,  "humidity_min": 30, "humidity_max": 70, "ph_min": 6.0, "ph_max": 8.0},
+    "coconut":   {"temp_min": 21, "temp_max": 32, "monthly_rain_min": 100, "monthly_rain_max": 350, "humidity_min": 70, "humidity_max": 95, "ph_min": 5.0, "ph_max": 8.0},
+    "coffee":    {"temp_min": 15, "temp_max": 28, "monthly_rain_min": 80,  "monthly_rain_max": 220, "humidity_min": 60, "humidity_max": 90, "ph_min": 4.5, "ph_max": 6.5},
+    "cotton":    {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 30,  "monthly_rain_max": 150, "humidity_min": 30, "humidity_max": 80, "ph_min": 5.5, "ph_max": 8.0},
+    "grapes":    {"temp_min": 15, "temp_max": 30, "monthly_rain_min": 20,  "monthly_rain_max": 120, "humidity_min": 40, "humidity_max": 85, "ph_min": 5.5, "ph_max": 7.5},
+    "jute":      {"temp_min": 20, "temp_max": 34, "monthly_rain_min": 100, "monthly_rain_max": 300, "humidity_min": 70, "humidity_max": 95, "ph_min": 5.5, "ph_max": 7.5},
+    "kidneybeans":{"temp_min": 18,"temp_max": 30, "monthly_rain_min": 30,  "monthly_rain_max": 160, "humidity_min": 40, "humidity_max": 85, "ph_min": 6.0, "ph_max": 7.5},
+    "lentil":    {"temp_min": 12, "temp_max": 28, "monthly_rain_min": 5,   "monthly_rain_max": 80,  "humidity_min": 30, "humidity_max": 70, "ph_min": 6.0, "ph_max": 8.0},
+    "maize":     {"temp_min": 18, "temp_max": 32, "monthly_rain_min": 40,  "monthly_rain_max": 220, "humidity_min": 40, "humidity_max": 85, "ph_min": 5.5, "ph_max": 8.0},
+    "mango":     {"temp_min": 24, "temp_max": 35, "monthly_rain_min": 40,  "monthly_rain_max": 220, "humidity_min": 40, "humidity_max": 85, "ph_min": 5.5, "ph_max": 7.5},
+    "mothbeans": {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 10,  "monthly_rain_max": 120, "humidity_min": 30, "humidity_max": 70, "ph_min": 6.0, "ph_max": 8.0},
+    "mungbean":  {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 10,  "monthly_rain_max": 150, "humidity_min": 35, "humidity_max": 80, "ph_min": 6.0, "ph_max": 8.0},
+    "muskmelon": {"temp_min": 22, "temp_max": 35, "monthly_rain_min": 10,  "monthly_rain_max": 120, "humidity_min": 30, "humidity_max": 80, "ph_min": 6.0, "ph_max": 7.5},
+    "orange":    {"temp_min": 13, "temp_max": 35, "monthly_rain_min": 30,  "monthly_rain_max": 200, "humidity_min": 40, "humidity_max": 85, "ph_min": 5.5, "ph_max": 7.5},
+    "papaya":    {"temp_min": 22, "temp_max": 30, "monthly_rain_min": 60,  "monthly_rain_max": 250, "humidity_min": 60, "humidity_max": 95, "ph_min": 5.5, "ph_max": 7.0},
+    "pigeonpeas":{"temp_min": 20, "temp_max": 35, "monthly_rain_min": 20,  "monthly_rain_max": 200, "humidity_min": 30, "humidity_max": 80, "ph_min": 6.0, "ph_max": 8.0},
+    "pomegranate":{"temp_min": 25,"temp_max": 40, "monthly_rain_min": 10,  "monthly_rain_max": 80,  "humidity_min": 20, "humidity_max": 70, "ph_min": 5.5, "ph_max": 8.0},
+    "rice":      {"temp_min": 20, "temp_max": 35, "monthly_rain_min": 100, "monthly_rain_max": 400, "humidity_min": 60, "humidity_max": 95, "ph_min": 5.0, "ph_max": 7.5},
+    "watermelon":{"temp_min": 20,"temp_max": 35, "monthly_rain_min": 10,  "monthly_rain_max": 120, "humidity_min": 30, "humidity_max": 80, "ph_min": 6.0, "ph_max": 7.5}
+  }
+  
