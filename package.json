@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-react-native": "^1.0.0",
+    "expo-gl": "^16.0.7",
+    "react-native-unimodules": "^0.15.0"
+  }
+}
